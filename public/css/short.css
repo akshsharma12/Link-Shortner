@@ -1,0 +1,22 @@
+.a{
+    background-image: url("/public/j.jpg");
+    font-weight: bold;
+}
+
+.aa{
+    height: 60px;
+     width: 400px;
+     border: 2px solid;
+     border-radius: 5px;
+     border-color: #24a0ed;
+     margin-top: 7px;
+ }
+ .j{
+    margin-left: 650px;
+    margin-top: -350px;
+    
+ }
+ .s{
+    margin-top: 70px;
+    font-weight: bold;
+ }

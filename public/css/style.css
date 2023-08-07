@@ -1,0 +1,57 @@
+.a{
+    margin-top: 30px;
+    color: rgb(238, 243, 247);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2;
+}
+.aa{
+    font-size: 20px;
+    font-weight: bold;
+    color: yellow;
+}
+.b{
+    margin-top: -400px; 
+   
+}
+.bb{
+    color: whitesmoke;
+    margin-top: -200px;
+    margin-left: 120px;
+    font-weight: bold;
+}
+.g{
+    position: fixed;
+}
+body{
+    background-color:rgb(22, 22, 22)
+}
+.e{
+    position: absolute;
+    text-decoration: none;
+    color: whitesmoke;
+    height: 40px;
+    width: 200px;
+    border: 1 px solid;
+    background-color: whitesmoke;
+    margin-top: 30px;
+    margin-left: 120px;
+    color: black ;
+    padding: 3px 3px 3px 30px;
+    border-radius: 5px;
+    font-weight:bold;
+}
+.dd
+{
+    height: 50px;
+    width: 50px;
+    border: 3px solid;
+    border-color: yellow; 
+    border-radius: 10px;
+    
+}
+.x{
+    margin-left: 80%;
+}

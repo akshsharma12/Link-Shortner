@@ -1,0 +1,39 @@
+body{
+    background-color:rgb(22, 22, 22)
+}
+.a{
+    font-size: 20px;
+    font-weight: bold;
+}
+.x{
+    margin-left: 80%;
+    font-weight: bold;
+}
+.b{
+    margin-top: -420px;
+    margin-left: 620px;
+}
+.aa{
+   height: 60px;
+    width: 400px;
+    border: 1px solid;
+    border-color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.aaa
+{
+    text-decoration: none;
+    color:yellow;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+.c{
+    color: whitesmoke;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.d{
+    margin-top: 60px;
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.4/dist/jquery.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.7.7/handlebars.min.js"></script>
+    <link rel="stylesheet" href="/public/css/short.css">
+    <title>Document</title>
+</head>
+<body>
+    <nav class="navbar navbar-expand-sm navbar-dark a">
+  <ul class="navbar-nav ">
+    <li class="nav-item active">
+      <a class="nav-link" href="#">Link Shortner</a>
+    </li></ul>
+
+    <ul class="navbar-nav ml-auto">
+    <li class="nav-item active">
+      <a class="nav-link" href="/main">Home</a>
+    </li>
+    <li class="nav-item active">
+      <a class="nav-link" href="#">about</a>
+    </li>
+    </ul>
+
+</nav><br>
+<div class="container">
+   <div class="col-lg-4">
+        <form action="/shortlink" method="post">
+        <label class="s">Provide your Url for shortlink</label>    
+           <input type="text" name="url" id="url" class="aa" placeholder="Enter your url" autocomplete="off"> <br><br><br>
+           <button class="btn btn-primary">Generate link</button><br><br>
+           </form>
+          {{!-- <h1>Your short link Generated: <a href="{{short}}">{{short}}</a></p> --}}
+          <img src="/public/png.png" height="250px" width="200px" class="j">
+          </div>  
+          
+      
+    
+</div>  
+
+</body>
+</html>

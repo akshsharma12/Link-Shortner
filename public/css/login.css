@@ -1,0 +1,16 @@
+.a{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.b{
+    background-image: url('/public/j.jpg');
+}
+.g{
+ height: 120px;
+ margin-left:100px;
+ width: 100px;
+}
+button{
+    margin-top: -70px;
+}

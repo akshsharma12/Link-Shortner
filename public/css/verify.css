@@ -1,0 +1,18 @@
+.a{
+    border-color: black;
+}
+.v{
+    color:  #24a0ed;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.vv{
+    color:  #24a0ed;
+    margin-left: 15px;
+}
+.aa{
+    font-size: 20px;
+    font-weight: bold;
+}
+.c{
+    background-image: url("/public/j.jpg");
+}

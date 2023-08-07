@@ -1,0 +1,44 @@
+.a{
+    margin-top: 80px;
+  }
+.b{
+    height: 60px;
+    width: 400px;
+    border: 2px solid;
+    border-radius: 10px;
+    border-color:#24a0ed;
+}
+.bb{
+    height: 200px;
+    width: 350px;
+    border: 2px solid;
+    border-radius: 10px;
+    border-color:#24a0ed;
+    
+}
+.bbb{
+    margin-left: 90px;
+    margin-top: 10px;
+    height: auto;
+    width: auto;
+    
+}
+.aa{
+    background-image: url("/public/j.jpg");
+}
+.s{
+    font-weight: bold;
+}
+.n{
+    height: 200px;
+    width: 200px;
+    margin-top: -30px;
+    margin-left: -600px;
+
+}
+.g{
+    font-weight: bold;
+    margin-top: -230px
+}
+
+
